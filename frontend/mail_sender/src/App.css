@@ -1,0 +1,15 @@
+/* mailbox */
+
+.mailbox {
+    height: 500px;
+    width: 80%;
+    border: 1px solid #000;    
+}
+
+.flexParent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
