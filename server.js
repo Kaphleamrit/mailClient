@@ -18,7 +18,7 @@ const main = async () => {
         from : 'amritkaphle12@gmail.com',   
         to : 'shivam0gupta1@gmail.com',
         subject : 'Checking mail sender',
-        text : "Did you receive this mail fucking bali.",
+        text : "Did you receive this mail fucking shivam.",
         html : "<h2>I'm sending you a html formatted message, send from vs Code</h2>\n "
     }
     
